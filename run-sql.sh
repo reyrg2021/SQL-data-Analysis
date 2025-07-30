@@ -26,7 +26,7 @@ error() {
 }
 
 # ============================================================================
-# FUNCIÓN PRINCIPAL - DEBE ESTAR DEFINIDA ANTES DE SER USADA
+# FUNCIÓN PRINCIPAL
 # ============================================================================
 
 # Función para procesar un archivo SQL individual
